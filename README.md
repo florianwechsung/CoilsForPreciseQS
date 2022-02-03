@@ -1,5 +1,7 @@
 # Coils for precise Quasi Symmetry
 
+![QA+Well[24] coils](https://raw.githubusercontent.com/florianwechsung/CoilsForPreciseQS/main/coils_well24.png)
+
 This repository contains code to accompany the manuscript
 
 - *Precise stellarator quasi-symmetry can be achieved with electromagnetic coils*, Florian Wechsung, Matt Landreman , Andrew Giuliani, Antoine Cerfon, and Georg Stadler
