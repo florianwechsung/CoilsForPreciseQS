@@ -44,6 +44,8 @@ Here the options mean:
 
 If you would like to target the QA+Well configuration instead, simply add `--well` to the command.
 
+These optimizations take a while on a small machine, so instead, you can also just unzip the `archive.zip` file, which will restore the output from the runs used in the paper.
+
 ## Analysis
 
 Since the optimization routine may find a different minimizer depending on the initial guess, we first run
